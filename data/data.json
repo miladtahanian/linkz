@@ -1,0 +1,53 @@
+{
+  "name": "گروه هوشمند سازی آلوین",
+  "bio": "!خونه در اختیار توست",
+  "images": {
+    "avatar": "avatar.png",
+    "banner": "banner.png",
+    "hover_change": false,
+    "onHover_avatar": "animated_avatar.gif"
+  },
+  "background": "#f5f5f5",
+  "location": "کاشان - بلوار دانش - دانش 23 - مجتمع امین - گروه هوشمند سازی آلوین",
+  "website": "link-z.vercel.app",
+  "site_url": "https://hdlkashan.vercel.app",
+  "buttons": {
+    "display": false,
+    "items": [{"label": "پیام"},{"label": "دنبال کردن"},{"label": "پست ها"}]
+  },
+  "footer": {
+    "display": true,
+    "text": "تمام حقوق این صفحه مربوط به نمایندگی رسمی HDL در کاشان می باشد."
+  },
+  "contacts": {
+    "display": true,
+    "items": [
+      { "label": "تلگرام", "url": "https://www.t.me/Allwinig" },
+      { "label": "ایتا", "url": "https://eitaa.com/Allwin" }
+    ]
+  },
+  "socials": { 
+    "display": true,
+    "items": [
+      { "label": "اینستاگرام", "url": "https://www.instagram.com/hdlkashan" }
+    ]
+  },
+  "designs": {
+    "display": false,
+    "items": []
+  },
+  "wallets": {
+    "display": false,
+    "items": []
+  },
+  "gaming_profiles": {
+    "display": false,
+    "items": []
+  },
+  "qna": {
+    "display": false,
+    "GISCUS_REPO":"",
+    "GISCUS_REPO_ID":"",
+    "GISCUS_CATEGORY_ID":""
+  }
+}
