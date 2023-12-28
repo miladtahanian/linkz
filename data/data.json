@@ -10,7 +10,7 @@
   "background": "#f5f5f5",
   "location": "کاشان - بلوار دانش - دانش 23 - مجتمع امین - گروه هوشمند سازی آلوین",
   "website": "Allwin Intelligence Group",
-  "site_url": "https://hdlkashan.vercel.app",
+  "site_url": "https://smartallwin.vercel.app",
   "buttons": {
     "display": false,
     "items": [{"label": "پیام"},{"label": "دنبال کردن"},{"label": "پست ها"}]
